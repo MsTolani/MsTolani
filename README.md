@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-<img src="https://user-images.githubusercontent.com/125134618/230761484-9e77d631-f724-46a6-af36-8ae73ed45cb5.jpg" alt="Pizza Place Dashboard GitHub 2" width="500">
+<img src="https://user-images.githubusercontent.com/125134618/230761484-9e77d631-f724-46a6-af36-8ae73ed45cb5.jpg" alt="Pizza Place Dashboard GitHub 1" width="500">
 
 
 Here are some ideas to get you started:
