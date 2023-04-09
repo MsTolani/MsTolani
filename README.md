@@ -1,5 +1,5 @@
 ### Hiya 👋 
-#### If you like pizza as much as I do, then you might like my dashboard 😉😉😉
+#### If you love pizza like me, you'll might like my dashboard! I incorporated my the colors of my favorite toppings, cheese, and crust. 😉😉😉
 
 <img src="https://user-images.githubusercontent.com/125134618/230761484-9e77d631-f724-46a6-af36-8ae73ed45cb5.jpg" alt="Pizza Place Dashboard GitHub 1" width="500">
 
