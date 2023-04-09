@@ -1,5 +1,6 @@
 ### Greetings 👋
 
+![Pizza Place Dashboard GitHub](https://user-images.githubusercontent.com/125134618/230761079-6e2dfedc-a460-486f-8842-ef81d8930d5e.jpg)
 
 Here are some ideas to get you started:
 
