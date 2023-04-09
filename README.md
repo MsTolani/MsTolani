@@ -1,6 +1,6 @@
 ### Greetings 👋
 
-![Pizza Place Dashboard GitHub 2](https://user-images.githubusercontent.com/125134618/230761484-9e77d631-f724-46a6-af36-8ae73ed45cb5.jpg)
+![Pizza Place Dashboard GitHub 2](https://user-images.githubusercontent.com/125134618/230761484-9e77d631-f724-46a6-af36-8ae73ed45cb5.jpg =250x250)
 
 
 Here are some ideas to get you started:
